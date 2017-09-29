@@ -1,0 +1,5 @@
+name: spring-boot
+
+server:
+    port: 8081
+    context-path: /spring-boot
