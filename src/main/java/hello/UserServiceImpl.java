@@ -12,7 +12,6 @@ public class UserServiceImpl  implements UserService{
 
 	@Override
 	public User getUser(String userId) {
-		// TODO Auto-generated method stub
 		return new User();
 	}
 
